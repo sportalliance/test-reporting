@@ -15,6 +15,7 @@
   },
   "overrides": {
     "form-data": "2.5.4",
+    "minimatch": "3.0.5",
     "minimist": "^1.2.8"
   }
 }
