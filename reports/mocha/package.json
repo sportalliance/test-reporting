@@ -12,6 +12,7 @@
     "mocha": "^8.3.0"
   },
   "overrides": {
+    "braces": "3.0.3",
     "minimatch": "3.0.5"
   }
 }
