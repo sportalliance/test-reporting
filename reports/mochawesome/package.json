@@ -14,6 +14,7 @@
     "mocha": "^9.2.0"
   },
   "overrides": {
+    "form-data": "2.5.4",
     "minimist": "^1.2.8"
   }
 }
